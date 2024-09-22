@@ -36,7 +36,7 @@ as follows:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-#Customer Segmentation Using Unsupervised Learning :
+# Customer Segmentation Using Unsupervised Learning :
 
 The second part of the task requires you to develop and train an unsupervised machine learning 
 model to segment customers based on their transactional behavior and other relevant features 
